@@ -1,0 +1,8 @@
+j2: try and catch
+j3: this.keyboard
+j4: call() apply()
+j5: EcmaScript 5
+j6: JSON.parse()
+j7: Getter
+J8: SETTER
+j9: Define Property
